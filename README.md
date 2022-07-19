@@ -8,7 +8,7 @@ Aplicação tem como base criar um jogo onde o usuário pode responder perguntas
 </p>
 
 - [X] Logotipo criado do zero.
-- [X] O design do jogo foi pensado em levar conforto visual para os usuários.
+- [X] O design do jogo foi pensado em levar conforto visual para os usuários de uma forma intuitiva.
 - [X] Projeto feito em React JS.
 
 <h1 align="center">
